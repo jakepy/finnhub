@@ -1,2 +1,2 @@
-# finnhub
-Financial Data Using Finnhub API and Python Client
+# Finnhub Earnings Score
+Get earnings scores from the Finnhub API using python.
